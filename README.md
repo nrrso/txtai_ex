@@ -43,7 +43,7 @@ IO.inspect(results)
 
 ## Documentation
 
-For detailed documentation on all features and functionalities, visit [txtai_ex documentation](https://hexdocs.pm/txtai_ex).
+For detailed documentation on all features and functionalities, visit https://hexdocs.pm/txtai_ex/readme.html.
 
 ## Contributing
 
