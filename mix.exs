@@ -40,18 +40,14 @@ defmodule TxtaiEx.MixProject do
 
   defp description() do
     """
-      txtai_ex` is an Elixir client library for [txtai](https://github.com/neuml/txtai),
-      an AI-powered text search engine that enables building intelligent text-based applications in Elixir.
-      With `txtai_ex`, you can seamlessly integrate natural language processing, embeddings search, and machine
-      learning workflows into your Elixir projects.
+      txtai_ex` is an Elixir client library for [txtai](https://github.com/neuml/txtai)
     """
   end
 
   # Package configuration for Hex
   defp package do
     [
-      files:
-        ~w(lib priv .formatter.exs mix.exs README* readme* LICENSE* license* CHANGELOG* changelog* src),
+      files: ~w(lib .formatter.exs mix.exs README* LICENSE* CHANGELOG*),
       maintainers: ["Norris Sam Osarenkhoe"],
       licenses: ["Apache-2.0"],
       links: %{"GitHub" => "https://github.com/nrrso/txtai_ex"}
