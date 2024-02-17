@@ -62,6 +62,6 @@ If you encounter any issues or have questions, please file an issue on the GitHu
 
 ## License
 
-`txtai_ex` is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+`txtai_ex` is released under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
 
 ---
